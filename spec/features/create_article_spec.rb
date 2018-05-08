@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.feature 'Create articles' do
+RSpec.feature 'Create article' do
   scenario 'A user creates a new article' do
     visit '/'
 
